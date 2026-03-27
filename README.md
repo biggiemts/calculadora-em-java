@@ -1,2 +1,2 @@
 # calculadora-em-java
-calculadora em java, com mais dois metodos utilizando while
+calculadora simples em java, com mais dois metodos utilizando while testando meu portencial e conhecimento desta ferramenta
